@@ -2,7 +2,7 @@
 
 
 ## Data Stack : 
-## <center> <img src="images/data_stack.png" width="800" height="400" /> </center>
+<center> <img src="TV_NLP/data_stack.png" width="800" height="400" /> </center>
 
 
 ## Referances : 
