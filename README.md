@@ -1,11 +1,11 @@
 # TV NLP Script Maker
 
 
-##Data Stack : 
+# Data Stack : 
 
 
 
-##Referances : 
+# Referances : 
 Open Ai
 @article{radford2019language,
   title={Language Models are Unsupervised Multitask Learners},
