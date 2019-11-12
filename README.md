@@ -2,7 +2,7 @@
 
 
 ## Data Stack : 
-## <center> <img src="images/epl_predictor.png" width="400" height="200" /> </center>
+## <center> <img src="images/data_stack.png" width="800" height="400" /> </center>
 
 
 ## Referances : 
